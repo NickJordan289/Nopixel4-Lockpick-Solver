@@ -5,7 +5,7 @@ Tested on https://maximilianadf.github.io/NoPixel-MiniGames-4.0/Laundromat/Laund
 
 https://github.com/MaximilianAdF/NoPixel-MiniGames-4.0
 
-![solving_example.gif](solving_example.gif)
+<img src="solving_example.gif" alt="solving_example" loop=infinite>
 
 ## Dependencies
 

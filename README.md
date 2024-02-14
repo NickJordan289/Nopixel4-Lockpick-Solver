@@ -1,7 +1,9 @@
-# Nopixel 4.0 L ockpick Solver
+# Nopixel 4.0 Lockpick / Laundromat Solver
 Script that uses computer vision to do lockpick minigame for you
 
 Tested on https://maximilianadf.github.io/NoPixel-MiniGames-4.0/Laundromat/Laundromat.html
+
+https://github.com/MaximilianAdF/NoPixel-MiniGames-4.0
 
 ![solving_example.gif](solving_example.gif)
 

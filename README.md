@@ -16,7 +16,7 @@ https://github.com/MaximilianAdF/NoPixel-MiniGames-4.0
 
 ## Config
 
-You will have to update the zone for your screen resolution 
+You will have to update the zone for your screen resolution [(tool)](https://github.com/NickJordan289/cv2-mss-zone-creator)
 ```
 CAPTURE_ZONE = {"top": 236, "left": 3017, "width": 580, "height": 580}  # Inner zone around game
 ```
